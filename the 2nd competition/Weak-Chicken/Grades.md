@@ -1,10 +1,10 @@
 * Weak-Chicken
 
-	AC-977-100 | 124ms-faster than 52.11%
+	AC-985-100 | 1156ms-faster than 25.04%
 
-	AC-153-100 | 12ms-faster than 5.05%
+	No Results-39-0 | N/A
 
-	Wrong Answer-154-0 | N/A
+	No Results-42-0 | N/A
 
 
-	Total:200
+	Total:100
