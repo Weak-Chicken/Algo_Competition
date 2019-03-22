@@ -2,11 +2,11 @@ Problems come from [LeetCode](https://leetcode.com/problems/)
 
 * We chose
 
-	easy - []()
+	easy - [985](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)
     
-	medium - []()
+	medium - [39](https://leetcode.com/problems/combination-sum/)
     
-	hard - []()
+	hard - [42](https://leetcode.com/problems/trapping-rain-water/)
 	
 
 
